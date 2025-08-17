@@ -6,44 +6,38 @@ const WorkoutSessions = () => {
       <div className="wrapper">
         <h1>TOP WORKOUT SESSION</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur,
-          quisquam. Eaque alias, blanditiis quidem maiores illo unde ipsam!
+         A full-body workout combining resistance training and functional movements. Focuses on sculpting muscles, boosting metabolism, and building overall strength.
         </p>
         <img src="/img5.jpg" alt="workout" />
       </div>
       <div className="wrapper">
         <h1>FEATURED BOOTCAMPS</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti
-          impedit quasi sunt amet rerum accusamus odio eveniet unde?
+         Gentle and refreshing, perfect for beginners and stress relief.
         </p>
         <div className="bootcamps">
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>HIIT Burnout Challenge</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+              Get ready for an explosive high-intensity interval training (HIIT) session designed to torch fat and build endurance.
             </p>
           </div>
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>Strength & Sculpt Bootcamp.</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+              Build muscle, improve posture, and feel strong from the inside out.
             </p>
           </div>
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>Yoga & Mindfulness Flow.</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+              Unwind your mind and body with a mix of yoga postures and breathing exercises.
             </p>
           </div>
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4> Cardio Dance Party</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+              Turn up the music and burn calories with this fun, fast-paced dance workout!
             </p>
           </div>
         </div>
